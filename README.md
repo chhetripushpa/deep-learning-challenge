@@ -45,4 +45,8 @@ Build a neural network model using TensorFlow.
 
 Train, test, and optimize the model.
 
+<<<<<<< HEAD
 Evaluate model performance and fine-tune hyperparameters.
+=======
+Evaluate model performance and fine-tune hyperparameters.
+>>>>>>> f93d66252dbe0fc5672f9732e4b077207f553687
